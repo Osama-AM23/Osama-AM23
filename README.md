@@ -12,6 +12,8 @@ src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebe
 - 💬 Ask me about **Core java, MySql, Web Tech**
 
 - 📫 How to reach me **osamavr691@gmail.com**
+  
+- 🔗 portfolio <a href="https://osama-am23.github.io/portfolio/" target="blank">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
