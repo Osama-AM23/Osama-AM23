@@ -29,5 +29,3 @@ src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebe
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-am23&show_icons=true&locale=en&layout=compact" alt="osama-am23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-am23&show_icons=true&locale=en" alt="osama-am23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-am23&" alt="osama-am23" /></p>
