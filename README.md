@@ -13,7 +13,8 @@ src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebe
 
 - 📫 How to reach me **osamavr691@gmail.com**
   
-- 🔗 Portfolio **[Osama-AM23](https://osama-am23.github.io/portfolio/)**  
+- 🔗 Portfolio **[Osama-AM23](https://osama-am23.github.io/portfolio/)**
+- Iam Currently Working on **Showroom Management**- Project.
 
 
 <h3 align="left">Connect with me:</h3>
